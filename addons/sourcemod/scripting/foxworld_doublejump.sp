@@ -9,6 +9,7 @@ public Plugin:myinfo =
 	name = "[FOXWORLD] Double Jump",
 	author = "FoxSerito",
 	version = "1.0"
+	url = "https://foxw.ru/"
 };
 
 public OnPluginStart()
